@@ -131,7 +131,7 @@ ________________________________________________
    
     ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/日志.png)
      
-   * 2）再点两次星星，如果还能成功运行就ok了（这一步是为了保证重新上传到secret的token是正确的）
+   * 2）再点两次星星，如果还能成功运行就ok了（这一步是为了保证重新上传到secret的token是正确的）（已修改）
  
 ### 教程完 ###
 
